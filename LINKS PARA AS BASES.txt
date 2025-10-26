@@ -1,0 +1,26 @@
+https://dados.al.gov.br/catalogo/pt_PT/dataset/dados-da-saude/resource/04323437-19e3-4a6a-a53c-8f9102d29ff5
+
+https://dados.al.gov.br/catalogo/pt_PT/dataset/dados-da-saude/resource/04323437-19e3-4a6a-a53c-8f9102d29ff5#embed-07b39755-4db2-409d-b3f6-4fbea876e5fe
+
+http://tabnet.datasus.gov.br/cgi/tabcgi.exe?idb2011/c09.def
+
+http://tabnet.datasus.gov.br/cgi/tabcgi.exe?idb2012/c09.def
+
+https://sidra.ibge.gov.br/home/pms/brasil
+
+https://www.ipea.gov.br/atlasviolencia/publicacoes
+
+https://www.ipea.gov.br/atlasviolencia/filtros-series/15/bitos-por-causas-externas
+
+Indicadores e Dados Básicos - Brasil - 2012
+IDB-2012
+
+C.9 Taxa de mortalidade específica por causas externas
+
+https://www.ipea.gov.br/atlasviolencia/filtros-series
+
+https://seriesestatisticas.ibge.gov.br/series.aspx?vcodigo=MS4
+
+http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/ext10uf.def
+
+http://tabnet.datasus.gov.br/cgi/idb2000/fqc12.htm
