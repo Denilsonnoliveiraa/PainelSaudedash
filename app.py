@@ -65,7 +65,7 @@ filtro_municipio = st.text_input("🔎 Filtrar por Município (nome completo ou 
 
 dark_style = """
     <style>
-    .stApp { background-color: #1a2c5b; }
+    .stApp { background-color: #000000; }
     .stButton>button { border-radius: 5px; padding: 0.5em 1em; font-weight: bold; }
     .stTabs [role="tablist"] > div:hover {
         background-color: #2b3f75; transform: scale(1.05); cursor: pointer;
