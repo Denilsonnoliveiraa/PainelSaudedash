@@ -1,4 +1,4 @@
-Descrição:
+## Descrição:
 
 Por se tratar de um programa de computador protegido por direitos autorais, recomenda-se que qualquer utilização de conteúdos derivados seja devidamente referenciada, em conformidade com as normas acadêmicas vigentes e os princípios de integridade científica.
 
@@ -16,7 +16,9 @@ Vladimir: ORCID: https://orcid.org/0009-0006-9411-6734
 
 Jader: ORCID: https://orcid.org/0000-0001-7414-1154
 
-Como citar: SILVA, D. O.; SILVA, Denilson de Oliveira.
+## Como citar: 
+
+SILVA, D. O.; SILVA, Denilson de Oliveira.
 
 # PainelSaudedash
 
