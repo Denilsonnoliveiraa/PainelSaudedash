@@ -6,7 +6,13 @@ Por se tratar de um programa de computador protegido por direitos autorais, reco
 
 https://painelsaudedash-kyrjybktoqckgx7rbrz3da.streamlit.app/
 
-Autores: Denilson de Oliveira Silva, Richard Matheus Avelino da Silva, Prof. Dr. Sílvio Fernando Alves Xavier Júnior, Profa. Dra. Erika Fialho Morais Xavier, Prof. Dr. Vladimir Costa de Alencar, Prof. Dr. Jader da Silva Jale.
+Autores: 
+Denilson de Oliveira Silva;
+Richard Matheus Avelino da Silva;
+Prof. Dr. Sílvio Fernando Alves Xavier Júnior;
+Profa. Dra. Erika Fialho Morais Xavier;
+Prof. Dr. Vladimir Costa de Alencar;
+Prof. Dr. Jader da Silva Jale.
 
 Denilson: ORCID: https://orcid.org/0009-0000-4031-7772
 
