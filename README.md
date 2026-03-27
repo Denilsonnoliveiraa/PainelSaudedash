@@ -18,7 +18,7 @@ Jader: ORCID: https://orcid.org/0000-0001-7414-1154
 
 ## Como citar: 
 
-SILVA, D. O.; SILVA, Denilson de Oliveira.
+SILVA, D. O. et al. PainelSaudeDash. Programa de computador. Registro INPI nº 512025005023-2, 2025.
 
 # PainelSaudedash
 
