@@ -18,7 +18,7 @@ img_base64 = base64.b64encode(buffered.getvalue()).decode()
 st.markdown(f"""
     <style>
         .top-bar {{
-            background-color: #1a2c5b;
+            background-color: #000000;
             color: white;
             padding: 20px 30px;
             display: flex;
