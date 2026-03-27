@@ -7,29 +7,17 @@ Por se tratar de um programa de computador protegido por direitos autorais, reco
 https://painelsaudedash-kyrjybktoqckgx7rbrz3da.streamlit.app/
 
 Autores: 
-Denilson de Oliveira Silva;
+Denilson de Oliveira Silva; ORCID: https://orcid.org/0009-0000-4031-7772
 
-Richard Matheus Avelino da Silva;
+Richard Matheus Avelino da Silva; ORCID: https://orcid.org/0009-0009-9718-9439 
 
-Prof. Dr. Sílvio Fernando Alves Xavier Júnior;
+Prof. Dr. Sílvio Fernando Alves Xavier Júnior; ORCID: https://orcid.org/0000-0002-4832-0711
 
-Profa. Dra. Erika Fialho Morais Xavier;
+Profa. Dra. Erika Fialho Morais Xavier; https://orcid.org/0000-0002-8217-7891
 
-Prof. Dr. Vladimir Costa de Alencar;
+Prof. Dr. Vladimir Costa de Alencar; ORCID: https://orcid.org/0009-0006-9411-6734
 
-Prof. Dr. Jader da Silva Jale.
-
-Denilson: ORCID: https://orcid.org/0009-0000-4031-7772
-
-Richard: ORCID: https://orcid.org/0009-0009-9718-9439 
-
-Silvio: ORCID: https://orcid.org/0000-0002-4832-0711
-
-Erika: ORCID: https://orcid.org/0000-0002-8217-7891
-
-Vladimir: ORCID: https://orcid.org/0009-0006-9411-6734
-
-Jader: ORCID: https://orcid.org/0000-0001-7414-1154
+Prof. Dr. Jader da Silva Jale; ORCID: https://orcid.org/0000-0001-7414-1154
 
 ## Como citar: 
 
