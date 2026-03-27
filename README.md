@@ -2,6 +2,10 @@
 
 Por se tratar de um programa de computador protegido por direitos autorais, recomenda-se que qualquer utilização de conteúdos derivados seja devidamente referenciada, em conformidade com as normas acadêmicas vigentes e os princípios de integridade científica.
 
+## Link do Progama de computador:
+
+https://painelsaudedash-kyrjybktoqckgx7rbrz3da.streamlit.app/
+
 Autores: Denilson de Oliveira Silva, Richard Matheus Avelino da Silva, Prof. Dr. Sílvio Fernando Alves Xavier Júnior, Profa. Dra. Erika Fialho Morais Xavier, Prof. Dr. Vladimir Costa de Alencar, Prof. Dr. Jader da Silva Jale.
 
 Denilson: ORCID: https://orcid.org/0009-0000-4031-7772
