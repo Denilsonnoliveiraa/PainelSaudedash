@@ -6,15 +6,15 @@ Autores: Denilson de Oliveira Silva, Richard Matheus Avelino da Silva, Prof. Dr.
 
 Denilson: ORCID: https://orcid.org/0009-0000-4031-7772
 
-Richard:
+Richard: ORCID: https://orcid.org/0009-0009-9718-9439 
 
-Silvio:
+Silvio: ORCID: https://orcid.org/0000-0002-4832-0711
 
-Erika:
+Erika: ORCID: https://orcid.org/0000-0002-8217-7891
 
 Vladimir:
 
-Jader:
+Jader: ORCID: https://orcid.org/0000-0001-7414-1154
 
 Como citar: SILVA, D. O.; SILVA, Denilson de Oliveira.
 
