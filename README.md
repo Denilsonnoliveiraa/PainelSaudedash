@@ -12,7 +12,7 @@ Silvio: ORCID: https://orcid.org/0000-0002-4832-0711
 
 Erika: ORCID: https://orcid.org/0000-0002-8217-7891
 
-Vladimir:
+Vladimir: ORCID: https://orcid.org/0009-0006-9411-6734
 
 Jader: ORCID: https://orcid.org/0000-0001-7414-1154
 
