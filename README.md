@@ -1,5 +1,3 @@
-# PainelSaudedash
-
 ## Descrição:
 
 Por se tratar de um programa de computador protegido por direitos autorais, recomenda-se que qualquer utilização de conteúdos derivados seja devidamente referenciada, em conformidade com as normas acadêmicas vigentes e os princípios de integridade científica.
