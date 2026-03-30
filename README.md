@@ -7,6 +7,7 @@ Por se tratar de um programa de computador protegido por direitos autorais, reco
 https://painelsaudedash-kyrjybktoqckgx7rbrz3da.streamlit.app/
 
 Autores: 
+
 Denilson de Oliveira Silva; ORCID: https://orcid.org/0009-0000-4031-7772
 
 Richard Matheus Avelino da Silva; ORCID: https://orcid.org/0009-0009-9718-9439 
